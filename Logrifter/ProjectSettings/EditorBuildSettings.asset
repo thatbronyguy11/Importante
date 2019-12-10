@@ -14,4 +14,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/intro/Crash2.unity
     guid: 528b000fbc4a5644f8b2c030fad69e91
+  - enabled: 1
+    path: Assets/Scenes/intro/ledroom.unity
+    guid: b330da8922e349d4596a2104178cdf93
+  - enabled: 1
+    path: Assets/Scenes/intro/ledroom2.unity
+    guid: e1e5aefdae21e234c930b5b19eb75d81
+  - enabled: 1
+    path: Assets/Scenes/intro/Crash3.unity
+    guid: 6d040bccaa4242846a1559e2d7bcf19a
+  - enabled: 1
+    path: Assets/Scenes/intro/Crash4.unity
+    guid: 99fd65bade2f3704083dc24b37db2496
   m_configObjects: {}
