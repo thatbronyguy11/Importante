@@ -6,12 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Start.unity
+    path: Assets/Scenes/intro/Start.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/Scenes/Crash1.unity
+    path: Assets/Scenes/intro/Crash1.unity
     guid: 48d919958766af742ad62ef640a2f188
   - enabled: 1
-    path: Assets/Scenes/Crash2.unity
+    path: Assets/Scenes/intro/Crash2.unity
     guid: 528b000fbc4a5644f8b2c030fad69e91
   m_configObjects: {}
