@@ -1,64 +1,133 @@
 fileFormatVersion: 2
-guid: 504ec3349b72f1040af95fcaf9ce9cbb
+guid: 46841a186a3f145438c70a3e1e69df6c
 ModelImporter:
-  serializedVersion: 18
-  fileIDToRecycleName:
-    100000: //RootNode
-    100002: vase_part1
-    100004: vase_part2
-    100006: vase_part3
-    100008: vase_part4
-    400000: //RootNode
-    400002: vase_part1
-    400004: vase_part2
-    400006: vase_part3
-    400008: vase_part4
-    2300000: vase_part1
-    2300002: vase_part2
-    2300004: vase_part3
-    2300006: vase_part4
-    3300000: vase_part1
-    3300002: vase_part2
-    3300004: vase_part3
-    3300006: vase_part4
-    4300000: vase_part4
-    4300002: vase_part1
-    4300004: vase_part2
-    4300006: vase_part3
-    9500000: //RootNode
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: vase_part1
+  - first:
+      1: 100004
+    second: vase_part2
+  - first:
+      1: 100006
+    second: vase_part3
+  - first:
+      1: 100008
+    second: vase_part4
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: vase_part1
+  - first:
+      4: 400004
+    second: vase_part2
+  - first:
+      4: 400006
+    second: vase_part3
+  - first:
+      4: 400008
+    second: vase_part4
+  - first:
+      23: 2300000
+    second: vase_part1
+  - first:
+      23: 2300002
+    second: vase_part2
+  - first:
+      23: 2300004
+    second: vase_part3
+  - first:
+      23: 2300006
+    second: vase_part4
+  - first:
+      33: 3300000
+    second: vase_part1
+  - first:
+      33: 3300002
+    second: vase_part2
+  - first:
+      33: 3300004
+    second: vase_part3
+  - first:
+      33: 3300006
+    second: vase_part4
+  - first:
+      43: 4300000
+    second: vase_part4
+  - first:
+      43: 4300002
+    second: vase_part1
+  - first:
+      43: 4300004
+    second: vase_part2
+  - first:
+      43: 4300006
+    second: vase_part3
+  - first:
+      95: 9500000
+    second: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 2
+    second: {fileID: 2100000, guid: 2aee1e391ad9cdb4abffc1d8977612b7, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
+    resampleCurves: 1
     optimizeGameObjects: 0
     motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
     animationImportErrors: 
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
-    animationRotationError: .5
-    animationPositionError: .5
-    animationScaleError: .5
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
+    extraUserProperties: []
     clipAnimations: []
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: .100000001
+    globalScale: 0.1
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
     importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
@@ -66,24 +135,34 @@ ModelImporter:
     useFileScale: 0
   tangentSpace:
     normalSmoothAngle: 60
-    splitTangentsAcrossUV: 1
     normalImportMode: 0
-    tangentImportMode: 1
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
+    serializedVersion: 3
     human: []
     skeleton: []
-    armTwist: .5
-    foreArmTwist: .5
-    upperLegTwist: .5
-    legTwist: .5
-    armStretch: .0500000007
-    legStretch: .0500000007
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
     feetSpacing: 0
+    globalScale: 0.1
     rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   animationType: 0
+  humanoidOversampling: 1
   additionalBone: 1
   userData: 
   assetBundleName: 
