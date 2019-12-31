@@ -20,5 +20,7 @@ Speaking of the game, It is developed entirely in Unity, including most of the m
 The music used in the trailers, and that will eventually be in the game, were all created by me, using Spotify’s music editing program called Soundtrap. Most of the songs are created using heavily edited loops from Soundtrap, creating a thread of similarity between the songs, and tying the OST together.
 
 youtube trailer:https://youtu.be/Eh5KUk-wUXc
+
 Soundcloud:https://soundcloud.com/thatbronyguy11
+
 Soundtrap:https://www.soundtrap.com/theopminer
