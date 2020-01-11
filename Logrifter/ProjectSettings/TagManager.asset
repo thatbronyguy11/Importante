@@ -10,6 +10,7 @@ TagManager:
   - light
   - Obstacle
   - End
+  - next level
   layers:
   - Default
   - TransparentFX
