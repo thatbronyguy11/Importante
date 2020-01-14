@@ -5,7 +5,7 @@ using UnityEngine;
 public class level2 : MonoBehaviour
 {
     //when you be in a colider
-    void OnTriggerStay(Collider Finish)
+    void OnTriggerStay(Collider other)
     {
 
         Application.LoadLevel("Temple2");

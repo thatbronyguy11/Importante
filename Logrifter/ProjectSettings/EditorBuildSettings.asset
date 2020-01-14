@@ -17,7 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/intro/Crash2.unity
     guid: 4f2f4e4d1ae28cb4d804d4b4f474fd9f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/intro/Crash3.unity
     guid: 5381bcef6e70e64498b4fefd64043267
   - enabled: 1
@@ -35,4 +35,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/temple/Temple2.unity
     guid: f50c5aa6845407243af1667e4c0f1d85
+  - enabled: 1
+    path: Assets/Scenes/temple/Temple3.unity
+    guid: a88fed28437b2f240b93fd620de08c2b
+  - enabled: 1
+    path: Assets/Scenes/temple/Temple4.unity
+    guid: ee140297e6367eb479c149febe1cf076
   m_configObjects: {}
