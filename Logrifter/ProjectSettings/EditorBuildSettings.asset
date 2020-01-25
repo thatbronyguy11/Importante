@@ -41,4 +41,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/temple/Temple4.unity
     guid: ee140297e6367eb479c149febe1cf076
+  - enabled: 1
+    path: Assets/Scenes/Office/Office1.unity
+    guid: db2f1da1044cc9144b105bdd52e6deed
   m_configObjects: {}
