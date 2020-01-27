@@ -13,6 +13,7 @@ Solve puzzles by translating text, or just rush through and make it all up as yo
 
 Do you have what it takes to translate an alien language, and escape? or will the same thing that ended this civilization, end you?
 
+
 The idea behind the game came from a conlang, called “Logriftic”, that I had created a few months prior to the first commit. I decided to create a logographic conlang, meaning that each concept has a separate symbol dedicated to it. As I had not yet created a vocal element to the conlang, I decided to set the game in a post-apocalyptic alien planet, removing any vocal components that would have existed. 
 
 Speaking of the game, It is developed entirely in Unity, including most of the models used, other than the Logriftic text and The Work Ship, which were made in Blender. The gameplay will mostly consist of physics-based puzzles in a similar vein to the Portal games created by Valve. Alongside the physics puzzles will be hidden puzzles that require the player slowly translate Logriftic into English, allowing them to solve secondary puzzles and get the “true end” of the game. 

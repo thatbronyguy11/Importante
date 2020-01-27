@@ -1,31 +1,65 @@
 fileFormatVersion: 2
-guid: a103eeda5d679ca4588f58df93b8fb77
-timeCreated: 1515251767
-licenseType: Store
+guid: 988f4feca670b7b4280708f30c7aad80
 ModelImporter:
-  serializedVersion: 21
-  fileIDToRecycleName:
-    100000: //RootNode
-    100002: Stair_001
-    100004: Stair_002
-    100006: Stair_003
-    400000: //RootNode
-    400002: Stair_001
-    400004: Stair_002
-    400006: Stair_003
-    2300000: Stair_001
-    2300002: Stair_002
-    2300004: Stair_003
-    3300000: Stair_001
-    3300002: Stair_002
-    3300004: Stair_003
-    4300000: Stair_002
-    4300002: Stair_003
-    4300004: Stair_001
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: Stair_001
+  - first:
+      1: 100004
+    second: Stair_002
+  - first:
+      1: 100006
+    second: Stair_003
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: Stair_001
+  - first:
+      4: 400004
+    second: Stair_002
+  - first:
+      4: 400006
+    second: Stair_003
+  - first:
+      23: 2300000
+    second: Stair_001
+  - first:
+      23: 2300002
+    second: Stair_002
+  - first:
+      23: 2300004
+    second: Stair_003
+  - first:
+      33: 3300000
+    second: Stair_001
+  - first:
+      33: 3300002
+    second: Stair_002
+  - first:
+      33: 3300004
+    second: Stair_003
+  - first:
+      43: 4300000
+    second: Stair_002
+  - first:
+      43: 4300002
+    second: Stair_003
+  - first:
+      43: 4300004
+    second: Stair_001
+  externalObjects: {}
   materials:
     importMaterials: 0
     materialName: 0
     materialSearch: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -38,6 +72,8 @@ ModelImporter:
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
@@ -52,6 +88,8 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
     importVisibility: 1
     importBlendShapes: 0
     importCameras: 0
@@ -59,9 +97,14 @@ ModelImporter:
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
@@ -72,10 +115,14 @@ ModelImporter:
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 0
   copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -85,8 +132,8 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1

@@ -5,25 +5,43 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: Assets/Test Scene/Test Scene.unity
+    guid: 21fcf179c8dea5e41a0eb50de55db7e0
   - enabled: 1
     path: Assets/Scenes/intro/Start.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+    guid: 5cb3fc160e7270d40a60901350b4b5e2
   - enabled: 1
     path: Assets/Scenes/intro/Crash1.unity
-    guid: 48d919958766af742ad62ef640a2f188
+    guid: aa94a2cb1419d544cb89853078bb010c
   - enabled: 1
     path: Assets/Scenes/intro/Crash2.unity
-    guid: 528b000fbc4a5644f8b2c030fad69e91
-  - enabled: 1
-    path: Assets/Scenes/intro/ledroom.unity
-    guid: b330da8922e349d4596a2104178cdf93
-  - enabled: 1
-    path: Assets/Scenes/intro/ledroom2.unity
-    guid: e1e5aefdae21e234c930b5b19eb75d81
-  - enabled: 1
+    guid: 4f2f4e4d1ae28cb4d804d4b4f474fd9f
+  - enabled: 0
     path: Assets/Scenes/intro/Crash3.unity
-    guid: 6d040bccaa4242846a1559e2d7bcf19a
+    guid: 5381bcef6e70e64498b4fefd64043267
   - enabled: 1
     path: Assets/Scenes/intro/Crash4.unity
-    guid: 99fd65bade2f3704083dc24b37db2496
+    guid: 2e19ac7c0835305469fe894c08b6b9c6
+  - enabled: 1
+    path: Assets/Scenes/intro/ledroom2.unity
+    guid: 4a6d0355be043bd42befc95e5b2b7dd3
+  - enabled: 1
+    path: Assets/Scenes/intro/ledroom.unity
+    guid: 0866b75475c36e744b861525c2036fe5
+  - enabled: 1
+    path: Assets/Scenes/temple/Temple1.unity
+    guid: ab71e33bbf1301044873c7718f2251d9
+  - enabled: 1
+    path: Assets/Scenes/temple/Temple2.unity
+    guid: f50c5aa6845407243af1667e4c0f1d85
+  - enabled: 1
+    path: Assets/Scenes/temple/Temple3.unity
+    guid: a88fed28437b2f240b93fd620de08c2b
+  - enabled: 1
+    path: Assets/Scenes/temple/Temple4.unity
+    guid: ee140297e6367eb479c149febe1cf076
+  - enabled: 1
+    path: Assets/Scenes/Office/Office1.unity
+    guid: db2f1da1044cc9144b105bdd52e6deed
   m_configObjects: {}

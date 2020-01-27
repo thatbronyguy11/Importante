@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg164"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="When During.svg">
+  <defs
+     id="defs158" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="400.40837"
+     inkscape:cy="529.71453"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata161">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="12.851191"
+       y="18.809523"
+       id="text168"><tspan
+         sodipodi:role="line"
+         id="tspan166"
+         x="12.851191"
+         y="18.809523"
+         style="stroke-width:0.26458332">When/During</tspan><tspan
+         sodipodi:role="line"
+         x="12.851191"
+         y="32.038689"
+         style="stroke-width:0.26458332"
+         id="tspan170">Base Word: N/A</tspan><tspan
+         sodipodi:role="line"
+         x="12.851191"
+         y="45.267857"
+         style="stroke-width:0.26458332"
+         id="tspan172">Misc</tspan></text>
+    <g
+       id="g200"
+       transform="matrix(3.5553733,0,0,3.5553733,-209.86009,-247.16347)">
+      <path
+         style="stroke-width:0.26458332"
+         inkscape:connector-curvature="0"
+         d="m 90.726465,98.854396 c -0.135337,1.094481 -0.179559,2.197424 -0.212987,3.298884 -0.02445,1.06327 -0.162017,2.11974 -0.227089,3.18126 -0.08082,1.29495 -0.208941,2.58575 -0.273513,3.88228 -0.04931,1.52224 -0.06663,3.04258 -0.15843,4.56303 -0.11372,1.73822 -0.153884,3.47988 -0.177702,5.22127 -0.01916,1.79811 -0.01402,3.59633 -0.01281,5.3945 0.0051,1.58185 0.0043,3.16371 0.0087,4.74556 0.0089,1.22634 0.0063,2.45272 0.01291,3.67908 0.0045,0.81504 0.0084,1.63009 0.01238,2.44514 0.0024,0.47762 0.0031,0.95525 0.0035,1.43288 0,0 -3.539559,-1.8035 -3.539559,-1.8035 v 0 c 5.29e-4,-0.47642 0.0013,-0.95284 0.0036,-1.42926 0.004,-0.81084 0.0079,-1.62168 0.01238,-2.43252 0.0065,-1.22207 0.0038,-2.44416 0.01214,-3.66622 0.0036,-1.57948 0.0013,-3.15897 0.0055,-4.73844 0.0013,-1.79833 0.0054,-3.59669 0.02331,-5.39494 0.0227,-1.749 0.05738,-3.49821 0.171135,-5.24415 0.08458,-1.5224 0.08899,-3.04543 0.142037,-4.56896 0.07091,-1.29963 0.194339,-2.59522 0.257685,-3.89506 0.06762,-1.05742 0.204812,-2.10991 0.223967,-3.16992 0.04039,-1.113572 0.108522,-2.225676 0.197475,-3.336442 0,0 3.515365,1.835528 3.515365,1.835528 z"
+         id="path176" />
+      <ellipse
+         style="stroke-width:0.26458332"
+         ry="4.07586"
+         rx="3.8085907"
+         cy="115.45717"
+         cx="74.100471"
+         id="path178" />
+      <ellipse
+         style="stroke-width:0.26458332"
+         ry="4.07586"
+         rx="3.8085907"
+         cy="115.12309"
+         cx="103.16603"
+         id="path178-6" />
+    </g>
+  </g>
+</svg>

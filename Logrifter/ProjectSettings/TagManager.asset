@@ -8,6 +8,10 @@ TagManager:
   - other
   - ball
   - light
+  - Obstacle
+  - End
+  - next level
+  - L4
   layers:
   - Default
   - TransparentFX
@@ -17,8 +21,8 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
+  - Trigger Zones
+  - Grabby
   - 
   - 
   - 

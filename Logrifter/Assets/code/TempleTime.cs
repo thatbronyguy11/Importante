@@ -7,9 +7,10 @@ public class TempleTime : MonoBehaviour
     //when you be in a colider
     void OnTriggerStay(Collider other)
     {
-
-        Application.LoadLevel("Temple1");
-
+        if (other.gameObject.tag == "Finish")
+        {
+            Application.LoadLevel("Temple1");
+        }
     }
     // Start is called before the first frame update
     void Start()
