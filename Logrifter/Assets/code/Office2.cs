@@ -6,7 +6,7 @@ public class Office2 : MonoBehaviour
 {
     void OnTriggerEnter(Collider other)
     {
-        if (other.name == "Player")
+        if (other.gameObject.tag == "Player")
         {
             Application.LoadLevel("Office2");
         }
