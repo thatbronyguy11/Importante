@@ -6,7 +6,8 @@ public class buttontest : MonoBehaviour
 
 
     public GameObject light1 = null;
-    
+    public GameObject invert = null;
+
     public GameObject Spring = null;
     public GameObject Gravity = null;
     public GameObject uhh = null;
@@ -30,6 +31,7 @@ public class buttontest : MonoBehaviour
 
             
             light1.SetActive(true);
+            invert.SetActive(false);
             Spring.GetComponent<HingeJoint>().useSpring = true;
             Gravity.SetActive(true);
             uhh.SetActive(true);
@@ -45,6 +47,7 @@ public class buttontest : MonoBehaviour
 
             
             light1.SetActive(false);
+            invert.SetActive(true);
             Spring.GetComponent<HingeJoint>().useSpring = false;
             Gravity.SetActive(false);
             uhh.SetActive(false);
