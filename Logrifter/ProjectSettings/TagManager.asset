@@ -12,6 +12,8 @@ TagManager:
   - End
   - next level
   - L4
+  - PatrolPoint
+  - drone
   layers:
   - Default
   - TransparentFX
